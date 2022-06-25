@@ -144,7 +144,7 @@
   transition: color 0.4s;
 }
 
-.nft_card-title:is(:hover) {
+.nft_card-title:is(:hover :active) {
   color: var(--cyan);
 }
 
@@ -227,7 +227,7 @@
   cursor: pointer;
 }
 
-.username:is(:hover) {
+.username:is(:hover :active) {
   color: var(--cyan);
 }
 
