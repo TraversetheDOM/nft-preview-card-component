@@ -34,8 +34,8 @@ _A mobile view of the nft card component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/nft-preview-card-component/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/nft-preview-card-component)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/nft-preview-card-component/)
 
 ## My process
 
